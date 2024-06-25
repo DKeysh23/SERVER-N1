@@ -1,284 +1,954 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719290104292 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719295353936 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290107327 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295356980 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290110360 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295360029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290113405 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295363114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290116466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295366152 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290119499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295369203 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290122633 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295372314 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290125785 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295375448 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290128821 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295379024 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290131892 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295382128 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290134947 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295385285 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290139194 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295388330 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290142597 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295391549 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290145650 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295394597 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290148685 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295397747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290151739 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295400793 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290154792 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295403857 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290158279 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295406898 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290161366 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295409938 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290164705 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295412986 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290168023 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295416021 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290171184 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295419115 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290174243 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295422205 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290177318 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295425299 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290180433 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295428348 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290185078 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295431395 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290188108 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295434566 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290191163 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295437617 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290194240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295440659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290197348 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295443820 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290200506 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295446912 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290204293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295449959 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290208140 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295453039 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290211212 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295456078 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290214250 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295459109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290217288 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295462172 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290220337 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295465250 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290223375 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295468297 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290227462 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295471483 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290231402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295474666 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290234447 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295477836 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290237511 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295480932 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290240557 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295483979 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290243600 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295487046 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290246642 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295490178 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290250004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295493235 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290253415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295496281 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290256453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295499323 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290259487 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295502609 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290262568 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295505722 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290265613 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295508761 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290268750 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295511805 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290272039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295515088 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290275138 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295518340 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290278169 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295521615 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290281376 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295524736 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719290284420 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719295527783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295530867 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295533914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295536950 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295540020 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295543076 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295546118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295549183 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295552218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295555263 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295558306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295561388 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295564430 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295568037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295571084 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295574136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295577175 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295580345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295583392 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295586434 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295589543 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295592594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295595662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295598734 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295602303 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295605426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295608474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295612034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295615859 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295619060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295622110 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295625198 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295628242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295631282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295634467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295637519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295640565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295643612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295646688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295649735 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295652903 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295655953 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295660180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295663259 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295666296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295669382 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295672617 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295675704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295678786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295682011 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295685373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295688424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295691505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295694551 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295697583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295700628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295704330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295708193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295711313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295714379 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295717442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295720616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295723659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295726702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295729758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295732834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295735891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295738942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295742129 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295745186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295748242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295751323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295754390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295757648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295760741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295763784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295766821 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295769873 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295772972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295776208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295780414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295783530 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295786592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295789629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295792697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295795744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295798806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295802164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295805279 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295808351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295811408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295814444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295817556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295820592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295823654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295826693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295829893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295832930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295835986 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295839022 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295842085 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295845126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295848211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295851597 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295854688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295857898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295860987 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295864260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295867336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295870841 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295874505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295877556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295880631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295883779 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295886849 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295889883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295892993 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295896053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295899121 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295902158 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295905196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295908233 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295911270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295914368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295917405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295921999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295925168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295928219 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295931835 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295935006 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295938102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295942585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295945617 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295948687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+director-eval.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719295951911 tunnel running, 1 tunnels registered
 
 
 TUNNELS
